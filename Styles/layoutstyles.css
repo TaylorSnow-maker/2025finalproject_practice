@@ -1,0 +1,33 @@
+body{
+
+background-color: lightcoral;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.common {
+    background-color: blueviolet;
+    border: 2px solid white;
+    position: absolute;
+}
+.header{
+    top:5px;
+    left: 5px;
+    right: 5px;
+height:100px;
+
+}
+
+.left{
+    top:115px;
+    left: 5px;
+    bottom: 40px;
+    width: 100px;
+
+}
+
+.right{
+      top:115px;
+    left: 25px;
+    bottom: 100px;
+    width: 40px;
+}
